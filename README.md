@@ -1,6 +1,3 @@
- ( U | - | 2 | 3 | 2 )-( S | O | U | R | C | E )-( C | O | D | E )  
-  \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/   
-
 U-232 V5 -> High performance Bittorrent tracker
 Italian Language Pack - U-232
 Language Translator
