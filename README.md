@@ -54,3 +54,4 @@ and just check /include/config.php to verify the following is correct :
 $INSTALLER09['char_set'] = 'UTF-8'; //also to be used site wide in meta tags
 if (ini_get('default_charset') != $INSTALLER09['char_set']) {
     ini_set('default_charset', $INSTALLER09['char_set']);
+
